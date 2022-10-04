@@ -6,3 +6,6 @@
 .header a:hover{
     color: orange;
 }
+.active{
+    color: tomato;
+}

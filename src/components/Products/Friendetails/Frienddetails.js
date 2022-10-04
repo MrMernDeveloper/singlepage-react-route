@@ -8,8 +8,8 @@ const FriendDetails = () => {
     return (
         <div>
             <h1>this is friend details</h1>
-            <p>name: {name}</p>
-            <p>phone: {phone}</p>
+            <p>Name: {name}</p>
+            <p>Phone: {phone}</p>
         </div>
     );
 };
